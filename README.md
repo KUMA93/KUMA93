@@ -37,7 +37,8 @@
 
 <!--MysQL-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-
+<!--Redis-->
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
 ### Front-End
 <!--Vue.js-->
