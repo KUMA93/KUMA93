@@ -3,7 +3,7 @@
 <h1 align='center'>
     Hi 👋, I'm Kyuheon 
 </h1>
-<h3 align='center'>Full Stack Developer</h3>
+<h3 align='center'>Back-end Developer</h3>
 
 <h4 align='center'>🏫Seoul National University of Technology<br/>
 - Computer Science & Engineering</h4>
