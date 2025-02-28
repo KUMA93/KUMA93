@@ -30,6 +30,11 @@
 <!--Spring Boot-->
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
+<!--Supabase-->
+<img src="https://img.shields.io/badge/supabase-#3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<!--Nextjs-->
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
 <!--JPA-->
 <img src="https://img.shields.io/badge/jpa-000000?style=for-the-badge&logo=jpa&logoColor=white"/>
 <!--MyBatis-->
@@ -41,6 +46,8 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
 ### Front-End
+<!--Nextjs-->
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <!--Vue.js-->
 <img src="https://img.shields.io/badge/vuedotjs-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
 <!--React.js-->
