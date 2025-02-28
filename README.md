@@ -40,8 +40,10 @@
 <!--MyBatis-->
 <img src="https://img.shields.io/badge/MyBatis-F7A126?style=for-the-badge&logo=MyBatis&logoColor=white"/>
 
-<!--MysQL-->
+<!--MySQL-->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<!--POSTGRESql-->
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <!--Redis-->
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 
